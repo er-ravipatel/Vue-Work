@@ -6,3 +6,16 @@
 /Vue-webapi-saperate/client-app/node_modules
 /Vue-webapi-saperate/client-app/bin
  
+*.config
+Vue-webapi-saperate/.vs/Vue-webapi-saperate/v16/.suo
+*.dll
+Vue-webapi-saperate/Vue-webapi/bin/Debug/netcoreapp3.1/Vue-webapi.dll
+Vue-webapi-saperate/Vue-webapi/bin/Debug/netcoreapp3.1/Vue-webapi.pdb
+Vue-webapi-saperate/Vue-webapi/obj/Debug/netcoreapp3.1/Vue-webapi.csprojAssemblyReference.cache
+Vue-webapi-saperate/Vue-webapi/obj/Debug/netcoreapp3.1/Vue-webapi.dll
+Vue-webapi-saperate/Vue-webapi/obj/Debug/netcoreapp3.1/Vue-webapi.pdb
+Vue-webapi-saperate/Vue-webapi/bin/Debug/netcoreapp3.1/Vue-webapi.dll
+Vue-webapi-saperate/Vue-webapi/bin/Debug/netcoreapp3.1/Vue-webapi.pdb
+Vue-webapi-saperate/Vue-webapi/obj/Debug/netcoreapp3.1/Vue-webapi.csprojAssemblyReference.cache
+Vue-webapi-saperate/Vue-webapi/obj/Debug/netcoreapp3.1/Vue-webapi.dll
+Vue-webapi-saperate/Vue-webapi/obj/Debug/netcoreapp3.1/Vue-webapi.pdb

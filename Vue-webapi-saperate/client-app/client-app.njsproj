@@ -34,23 +34,30 @@
     <Content Include="public\index.html" />
     <Content Include="src\App.vue" />
     <Content Include="src\assets\logo.png" />
+    <Content Include="src\assets\style\portal.scss" />
+    <Content Include="src\components\Forecast.vue" />
     <Content Include="src\components\HelloWorld.vue" />
-    <Content Include="src\components\Home.vue" />
     <Content Include="package.json" />
     <Content Include="README.md" />
+    <Content Include="src\constants\api.constants.js" />
     <Content Include="src\registerServiceWorker.js" />
-    <Content Include="src\router\index.js" />
-    <Content Include="src\store\index.js" />
+    <Content Include="src\router\router.js" />
+    <Content Include="src\services\api.services.js" />
+    <Content Include="src\store\store.js" />
     <Content Include="src\views\About.vue" />
     <Content Include="src\views\Home.vue" />
+    <Content Include="src\views\Weather.vue" />
     <Content Include="vue.config.js" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="public\" />
     <Folder Include="src\" />
     <Folder Include="src\assets\" />
+    <Folder Include="src\assets\style\" />
     <Folder Include="src\components\" />
+    <Folder Include="src\constants\" />
     <Folder Include="src\router\" />
+    <Folder Include="src\services\" />
     <Folder Include="src\store\" />
     <Folder Include="src\views\" />
   </ItemGroup>

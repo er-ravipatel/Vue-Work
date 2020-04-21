@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vue-webapi", "vue-webapi-integrated\vue-webapi.csproj", "{E43F80FF-907F-4DF5-8791-FE79BDFF2670}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E43F80FF-907F-4DF5-8791-FE79BDFF2670}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E43F80FF-907F-4DF5-8791-FE79BDFF2670}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E43F80FF-907F-4DF5-8791-FE79BDFF2670}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E43F80FF-907F-4DF5-8791-FE79BDFF2670}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE92DEC1-9BEA-400E-B04D-25F29CD2E7B3}
+	EndGlobalSection
+EndGlobal
